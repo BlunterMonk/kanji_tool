@@ -1,0 +1,285 @@
+[0 - momo - 00:00:14.480]
+・・・・・･これ、誰?
+ミサキ?どうしたの?
+.....
+ああ、先生か
+そっか、そうだった
+自分で追加しといて忘れてた
+それじゃ、失礼しました
+[1 - momo - 00:00:18.520]
+えっと...... あの、ミサキ ?
+[2 - title - 00:00:20.720]
+The Cage of the Body
+肉体という檻
+[3 - dialogue - 00:00:34.560]
+...How did it come to this. I didn't want to meet up.
+･･なんでこんなことになったんだろ。 会うつもりはなかったんだけど。
+[4 - option - 00:00:36.760]
+"Ah... well...."
+"あ・・・・・・その・・・･･・"
+[5 - dialogue - 00:00:41.160]
+Why did you call me out here?
+どうして呼び出したの?
+[6 - dialogue - 00:00:43.640]
+What do you want?
+何が望み?
+[7 - option - 00:00:45.480]
+"Well... nothing special..."
+"いや......特に･･･。"
+[8 - dialogue - 00:00:49.880]
+Then, I'm leaving.
+じゃあ、帰る。
+[9 - option - 00:00:53.720]
+"W-wait!"
+"ま、 待って!"
+[10 - dialogue - 00:00:57.040]
+...What?
+…何?
+[11 - optionab - 00:00:59.680]
+"Misaki is... uh, I just had a bad feeling..."
+"I don't know what I was thinking...."
+"ミサキは・・・・・・その、危なっかしい感じがするというか......。"
+"何を考えているのか分からないというか･･････"
+[12 - dialogue - 00:01:06.040]
+...And?
+･･･それで?
+[13 - optionab - 00:01:08.880]
+"That's why.... uh, I wanted to talk to you..."
+"I wanted to get to know Misaki a bit more...."
+"だから......その、ミサキと話をしてみたくて･....."
+"もう少しミサキのことを知りたくて......。"
+[14 - dialogue - 00:01:16.440]
+...haah.
+・はあ。
+[15 - dialogue - 00:01:22.840]
+I have responsibility, to protect everyone in Arius.
+私には、 アリウスのみんなを守る役目がある。
+[16 - dialogue - 00:01:28.200]
+We have to get away from the eyes of those searching for us.
+私たちを探してる連中の目から逃れなきゃいけないんだ。
+[17 - dialogue - 00:01:34.520]
+That's why, it's no good to speak with anyone else, get it?
+だから、外部の人間と連絡を取り合うなんて、 原則NG。 わかる?
+[18 - dialogue - 00:01:39.440]
+But... well, this time is ok.
+でも・・・・・・まぁ、今回はいいよ。
+[19 - dialogue - 00:01:45.320]
+Besides, it's like our lives are in your hands.
+どうせ私たちの命はあなたが握ってるようなものだし。
+[20 - dialogue - 00:01:51.760]
+So, what do you want from me?
+それで、 私に何をしてほしいの?
+[21 - option - 00:01:58.520]
+"Then, let's talk...?"
+"じゃあ、お話とか････...?"
+[22 - option - 00:02:06.160]
+"Is there anything I can help you with?"
+"それか、 何か手伝えることはある?"
+[23 - dialogue - 00:02:07.760]
+Not really.
+別に。
+[24 - dialogue - 00:02:10.440]
+Ah... something to help with... there's, one thing.
+ああ······手伝えること······ひとつ、あることにはある。
+[25 - option - 00:02:14.840]
+"Great! I'll help with whatever it is!"
+"よかった! どんなことでも手伝うよ! "
+[26 - dialogue - 00:02:18.840]
+Now then...
+それじゃ••••••
+[27 - dialogue - 00:02:28.000]
+...Error correction complete.
+･･･エラーの修正､完了。
+[28 - option - 00:02:31.720]
+"Finished?"
+"終わった? "
+[29 - dialogue - 00:02:36.520]
+Yeah. The GPS equipment we use, it's old. We can only correct the errors at this high altitude.
+うん。 私たちの使ってるGPS機器、 古いからさ。 こういう高いところでしかエラーの修正ができないの。
+[30 - dialogue - 00:02:41.280]
+But, I can't come up here by myself...
+でも、私ひとりじゃ来られなかったから.....。
+[31 - dialogue - 00:02:48.200]
+With that we shouldn't get lost for a while. Thanks, Sensei.
+これで道に迷うことはしばらくないかな。 ありがとう、 先生。
+[32 - option - 00:02:52.640]
+"I'm relieved I was helpful."
+"ミサキの役に立てて安心したよ。"
+[33 - dialogue - 00:02:57.320]
+...Relieved? Why?
+････安心? なんで?
+[34 - option - 00:03:04.520]
+"...You don't show a whole lot of emotion, so I was worried I wasn't helpful."
+"・・・・・･ ミサキってあんまり感情を表に出してくれないから、役に立てたのかわからなくて。"
+[35 - dialogue - 00:03:08.400]
+....That so.
+…...そっか。
+[36 - dialogue - 00:03:11.960]
+I hear that kind of thing often.... Well, I'm not really interested in what people think.
+そういうの、よく言われる･･････まぁ、別に誰が何と言おうと興味ないけど。
+[37 - dialogue - 00:03:17.000]
+Well I'm done here, let's head back.
+やること終わったし、帰ろっか。
+[38 - option - 00:03:23.640]
+"Oh, are you hungry? Want to get something to eat?"
+"お、お腹空いてない? 何か食べに行く?"
+[39 - dialogue - 00:03:30.280]
+Nah, I'm good.
+ううん、いらない。
+[40 - dialogue - 00:03:34.200]
+We're all done, let's go.
+用は済んだし、行こう。
+[41 - option - 00:03:40.240]
+"....R-right."
+"......う、うん。"
+[42 - dialogue - 00:04:00.680]
+...Sorry, I know it's really awkward. But, it'll probably always be that way with me.
+・ごめん、 居心地悪いでしょ。 私といると、 多分ずっとそうだよ。
+[43 - dialogue - 00:04:05.600]
+I'm, not really interested in anything.
+私、 何に対してもあんまり興味ないから。
+[44 - dialogue - 00:04:11.960]
+Earlier, you said you wanted to go eat?
+さっき、 なにか食べに行くって聞いたよね?
+[45 - dialogue - 00:04:18.200]
+....Even eating, I'm not really interested.
+･･そういうのにも、 興味が無い。
+[46 - dialogue - 00:04:25.360]
+If I get hungry, I just eat enough not to die. I don't really care what I eat, once it's in my stomach, it's all the same.
+お腹がすいたとしても、死なない程度に食べればいいから。 何を食べたいとか、無くて。胃に入っちゃえば全部同じだし。
+[47 - option - 00:04:34.080]
+"But, if you don't eat well your body will give out."
+"でも、ちゃんと食べないと身体を壊しちゃうよ。"
+[48 - dialogue - 00:04:40.280]
+...I bet. Even if that happens, then it's time for it to break. The body is just a meaningless cage that will return to the earth one day, when it's your time to die.
+･･だろうね。 そうなったとしても、 その時に身体を壊すだけだよ。 肉体なんてどうせ土に還るだけの無意味な器なんだし、死んだらその時はその時。
+[49 - option - 00:04:47.440]
+"I see..."
+"そっか......。"
+[50 - dialogue - 00:04:50.400]
+That's how it is.
+そういうこと。
+[51 - option - 00:04:56.640]
+"So is there anything? Anything that's important to you....?"
+"じゃあ何か他にでも、ミサキが大切だと思うことは......?"
+[52 - dialogue - 00:05:01.040]
+...Who knows.
+...さあね。
+[53 - dialogue - 00:05:02.840]
+I wonder, if there's something like that.
+そんなもの、 あるのかな。
+[54 - dialogue - 00:05:09.280]
+Everything you care is meaningless in the end- 
+大切に思ってもすべてが無駄になるだ、けー
+[55 - dialogue - 00:05:18.320]
+!?!?
+ッ!?
+[56 - option - 00:05:24.560]
+"The elevator stopped?"
+"エレベーターが止まった ? "
+[57 - dialogue - 00:05:30.360]
+Hold it... why now of all times...!?
+ちょっと...... よりによって今・・・・・・!?
+[58 - dialogue - 00:05:36.720]
+Eh, the power in the building has been turned off due to an error in the disaster prevention system. It is expected to take about an hour to restore power.
+えー、 ただいま防災システムのエラーにより、建物内の電源が落ちました。復旧まで1時間ほどかかる見込みです。
+[59 - dialogue - 00:05:45.360]
+A, an hour....? Hold on a second....!
+い、 1時間･･････ ? ちょっと待って......!
+[60 - dialogue - 00:05:49.960]
+Wait...! Now is-
+ちょっと...... ! 今は一
+[61 - option - 00:05:51.760]
+"Can't be helped."
+"仕方ないね。"
+[62 - dialogue - 00:05:56.760]
+Don't give me that "can't be helped".... a whole hour....
+仕方ないじゃないよ······ 1時間も······。
+[63 - option - 00:06:05.440]
+"Hm? I thought you were free today....?"
+"ん?今日は暇だったんじゃ•••･･･?"
+[64 - dialogue - 00:06:09.320]
+Yeah, I am but....!
+そう、 だけど･･････!
+[65 - dialogue - 00:06:11.840]
+R-right now is....
+い、 今は......
+[66 - option - 00:06:18.400]
+"Just stay calm and wait, we'll be out in no time."
+"落ち着いて待ってたら、 すぐ復旧するよ。"
+[67 - dialogue - 00:06:22.560]
+That's, you see....!
+それは、 だから......!
+[68 - option - 00:06:28.600]
+"You look kind of pale.... Are you okay?"
+"何か顔色が悪いけど...... 大丈夫?"
+[69 - dialogue - 00:06:34.440]
+D-don't talk to me-
+は、話しかけな一
+[70 - option - 00:06:41.240]
+"...Misaki? You don't look so good..."
+"...... ミサキ?顔色がすごく悪いけど......"
+[71 - optionabc - 00:06:49.240]
+"You ok?"
+"Is there something wrong with you?"
+"If you can tell me, I may be able to help...."
+"大丈夫? "
+"どこか具合でも悪い? "
+"ざっくりでも良いから、 教えてもらえると.....
+[72 - dialogue - 00:06:56.880]
+I, said don't talk to me...
+は、話しかけないで·····
+[73 - dialogue - 00:07:01.960]
+I, I'm....
+わ、私…...
+[74 - optionabc - 00:07:05.360]
+"Misaki, what's wrong?"
+"...?"
+"Is there anything I can do..."
+"ミサキ、 どうしたの?"
+"...?"
+"何かできることがあるなら・・･"
+[75 - dialogue - 00:07:09.560]
+I'm claustrophobic!!
+閉所恐怖症なんだってば!
+[76 - dialogue - 00:07:14.200]
+Ah-...
+あー、つ･･･
+[77 - option - 00:07:20.640]
+"The door opened!"
+"ドアが開いた!"
+[78 - dialogue - 00:07:27.000]
+Oh my, someone was trapped inside the elevator. The power has been restored. We apologize for the inconvenience.
+おや、エレベーターに閉じ込められた方がいらっしゃいましたか。 ただいま復旧完了しました。 ご不便をおかけして申し訳ございません。
+[79 - option - 00:07:32.680]
+"Uhm... right, thank you."
+"えっと…..……はい、ありがとうございます。"
+[80 - optionab - 00:07:45.520]
+Get down on your knees and apologize.
+Apologize with your forehead on the floor.
+土下座して謝る。
+額を床につけて謝罪する。
+[81 - dialogue - 00:07:52.080]
+Sensei.
+先生。
+[82 - option - 00:07:55.280]
+"....Misaki, I'm really sorry. I had no idea..."
+"･･････ミサキ、本当にごめん。 そうとも知らずに･･････。"
+[83 - dialogue - 00:07:59.920]
+.....It's fine.
+・・もういいよ。
+[84 - dialogue - 00:08:03.400]
+I'm always in and out of the catacombs, and I doubt anyone would noticed unless I told them...
+地下のカタコンベに出入りしてるし、 普通は言われないと気づかないと思うから......
+[85 - dialogue - 00:08:11.360]
+Well, that's why... I'm not good at being in small, dark spaces.
+まぁ、だから・・････ 狭くて暗いところにいるの、 苦手なんだ。
+[86 - dialogue - 00:08:19.400]
+....It's my physical defects. It's not your fault Sensei, don't worry about it.
+・・･ 肉体の欠陥ってやつ。 別に先生のせいじゃないから、 気にしないで。
+[87 - option - 00:08:25.800]
+"...Alright..."
+"......う、うん。"
+[88 - dialogue - 00:08:33.640]
+(Misaki's back as she left had a melancholy look to it.)
+(帰っていくミサキの後ろ姿には哀愁が漂っていた。)

@@ -1,0 +1,208 @@
+[1 - momo - 00:14]
+そうだ先生、シャーレにあれ無い?
+Hey Sensei, is that thing at Schale?
+>あれって………?
+>That thing....?
+「かまぼこ突風伝」の19巻!
+"Kamaboko Toushuden" Vol. 19!
+部室に無いから、あとはシャーレくらいかなって
+We don't have it in the club room, so I thought maybe at Schale
+>いつの間に置いてたんだ…
+>When did you get a clubroom...
+それはその、うちの部室、 あくまで仮の場所だし……いつ百花線乱が押し寄せてくるかも分からないから…
+Well it's, y'know, just a temporary room but... You never know when the Hundred Flowers Rampage might come crashing in...
+あと陰陽部も、いつ来るか分かったもんじゃないし………
+And the Yin-Yang club, you never know when they might show up...
+そこで私の忍者脳で演算した結果
+So my Ninja brain did the math.
+グッズはシャーレに保管するのが合理的、という結論に至ったの!
+And I thought that it would be a good idea to store the Ninja merch at Schale! 
+>シャーレは倉庫じゃないんですよ、 ミチルさん………
+>Schale is not a warehouse, Michiru...
+もちろん先生殿も読んで良いよ、 「かまぼこ」シリーズ面白いから!
+Of course Sensei-dono should read it too, the "Kamoboko" series is really interesting!
+あ、そういえば今夜は公園に集合ね
+Ah, by the way, let's meet at the park tonight
+待ってるよ、先生殿!
+I'll be waiting for, Sensei-dono! 
+>話が相変わらず急展開! /> それは良いんだけど、今夜は何をするの?
+>The convo moves too fast! /> That's no problem but, what are you doing tonight?
+(しゅばばばばばばっ!!!)←靴ひもを結ぶ音
+(Shu-ba-ba-ba-ba!!!) ← the sound of tying shoelaces
+>もう忍者っぽいアクションですらない……!?
+>That's a Ninja move too...!?
+
+[4 - title - 00:55]
+Ninja Girl Wants to Shine
+忍者少女は輝きたい
+[5 - dialogue - 00:55]
+(And so, I went to the park to meet Michiru as promised)
+(そうしてミチルと約束(?)した通り、公園へと足を運んだ)
+[6 - option - 00:59]
+"Well I'm here..."
+"とりあえず来てみたけど……。"
+[7 - dialogue - 01:05]
+As you may have guessed, the reason why we are gathered here today is for one reason only.
+ふふっ…先生殿も想像がついてるかもしれないけど、今日こうして集まってもらった理由は他でもない!
+[8 - dialogue - 01:11]
+My new homemade Ninjutsu...
+私が新しく作り上げた、自作の忍術……
+[9 - dialogue - 01:16]
+We'll record it and upload it to the "Ninpo Shoujo Michiruchi" channel!
+その動画を撮って、「少女忍法帖ミチルっち」チャンネルにアップロードするため!
+[10 - option - 01:20]
+"I would have never guessed that...."
+"想像はできてなかったかな………。"
+[11 - dialogue - 01:23]
+Eh-?
+えー?
+[12 - dialogue - 01:26]
+I dropped a bunch of hints for you to notice, Sensei-dono!
+先生殿が気が付けるように、色々と伏線を張っておいたのに!
+[13 - option - 01:28]
+"Hints?"
+“伏線?"
+[14 - dialogue - 01:33]
+Yes, hints. Sensei-dono, you must have thought the chat on Momotalk moved unnaturally? 
+そう、伏線。先生殿もあのモモトーク、不自然なくらい話題が変わったと思うでしょ?
+[15 - dialogue - 01:38]
+But try to remember! What we were talking about at the time!
+でも思い出してみて!あの時の私が、何の話をしていたのかを!
+[16 - option - 01:43]
+"Uhm, I believe we were talking about manga...."
+"えっと、確か漫画の話を……。"
+[17 - dialogue - 01:49]
+Yeah! Sensei-dono as you know, "Komoboko Toushuden Vol.19" has that one episode!
+そうそう!先生殿も知っての通り、『かまぼこ突風伝」19巻はあのエピソードがあるでしょ!
+[18 - dialogue - 01:56]
+The famous scene where the main character obtains his own original ninjutsu for the first time through blood-curdling training!
+主人公が血のにじむ修練を経て、初めて自分だけのオリジナル忍術を手に入れる名場面が!
+[19 - option - 01:59]
+"I've never heard of that!"
+"初耳です!"
+[20 - dialogue - 02:03]
+Wh-what's that!? Ugh, I guess you are still in training Sensei-dono...
+な、なんだって!?うーん、先生殿もまだ修行の途中か……。
+[21 - dialogue - 02:10]
+Well anyways, recently there's been a lot of videos like, "I tried making ___ that appeared in ___", or "I tried doing it", that have gotten popular right?
+まあとにかく、最近よく「○○に出てくる○○を作ってみた」とか、そういう「作ってみた」系の動画が人気あるでしょ?
+[22 - dialogue - 02:17]
+That's why I felt I should shoot a video, "I made a my own ninjutsu that could be in Kamaboko Toushuden!"!
+だから私もそんな感じで、「かまぼこ突風伝に出てきそうな自作忍術を作ってみた!」って動画を撮ってみようと思って!
+[23 - dialogue - 02:23]
+And so, here's the ninjutsu we'll film today!
+それで今日撮る忍術は、これ!
+[24 - dialogue - 02:28]
+This tool is called "Flame Ranbu Ninja Fireworks Set"! Just one light and the fireworks sparkle beautifully!
+その名も「火炎乱舞忍者花火セット」!一度火をつけるだけで、鮮やかに花火が輝く素敵な一品!
+[25 - dialogue - 02:34]
+Here Sensei-dono, It's time to show off my perfect ninjutsu...!
+これで先生殿に、完壁な忍術をお見せしよう……!
+[26 - optionab - 02:40]
+"I feel calling them "Ninja" firewords was a bit forced...."
+"It's a bit dangerous to be using fire, be careful ok?"
+"「忍者」って言葉を無理やりくっつけた感じが………。"
+"火を使うの、ちょっと危なくない?気を付けてね?"
+[27 - dialogue - 02:47]
+Meh, forget the details! It'll be fine, I'm ready!!
+もう、細かいことは気にしないの!それに準備もできてるから大丈夫!
+[28 - dialogue - 02:54]
+I have buckets of water ready! I already have the flow of the video in my head!
+こうしてバケツの水も用意してるし!動画の流れについても、もう頭の中にできあがってるから!
+[29 - dialogue - 03:00]
+So Sensei-dono, get a good shot ok~?
+それじゃあ先生殿。椅麗に撮ってよー?
+[30 - dialogue - 03:04]
+Here goes....!
+ではっ……!
+[38 - dialogue - 04:41]
+Ahahaha, that was cool wasn't it~!?
+あはははっ、カッコ良いでしょー!?
+[39 - dialogue - 04:46]
+Yeah, this is a good clip! It's gonna make a buzz!
+うん、縞麗だし良い感じ!これはバズる!
+[40 - dialogue - 04:53]
+Oh, and of course, I'll put your name on the special thanks list!
+あ、もちろんスペシャルサンクスに、先生殿の名前も書いておくからね!
+[41 - option - 04:59]
+"Ah, Michiru! The end of the fuse...!"
+"あっ、ミチル!ストールの先が……!"
+[42 - dialogue - 05:03]
+Hm....?
+ん......?
+[43 - dialogue - 05:05]
+Aaahhh!? What what!? Why's it so hot!?
+あっつっつ!?なになに!?熱いんだけど!?
+[44 - dialogue - 05:10]
+Se-Sensei-dono!? Water, water please! Hit me with water jutsu...!
+せ、先生殿!?水、 水ちょうだい!水系の忍術を早く……!
+[45 - option - 05:15]
+"Sorry, I only have a bucket!"
+"ごめん、バケツしか無い!"
+[46 - dialogue - 05:22]
+UWAAAA!?  *cough* *cough*...
+のわあああああつ!?けほっ、けほっ…。
+[47 - dialogue - 05:29]
+(Fortunately, no one got hurt)
+(幸い、怪我には繋がらなかったものの)
+[48 - dialogue - 05:36]
+Oh no! That one wasn't good! One more time, let's take one more shot!
+うあーん!今のは無し!もう一回、もう一回撮ろう!
+[49 - dialogue - 05:38]
+Eh!
+えっ
+[50 - dialogue - 05:42]
+Wh-why not!?
+ど、どうして!?
+[51 - optionab - 05:47]
+"It's dangerous. And you'll catch a cold if you stay like that."
+"We can later, in a safe way."
+"危険だから。あとそのままだと風邪引くから。"
+"また後日、安全な形でね。"
+[52 - dialogue - 05:52]
+Ugh...
+うっ……。
+[53 - dialogue - 05:55]
+W-well if that's the reason then I can't say anything...
+そ、その理由なら何とも言えない……。
+[54 - dialogue - 06:01]
+Ugh, it feels like such a waste...! It's frustrating but, it can't be helped!
+ううつ、勿体ない気持ちはあるけど……!ならないのはもどかしくて仕方ないけど!
+[55 - dialogue - 06:06]
+But I, Chidori Michiru! Head of the Ninjutsu Research Club, will not give up!
+でも私は、千鳥ミチル!忍術研究部の部長は諦めない!
+[56 - dialogue - 06:11]
+From now on I'll continue to make amazing Ninja content...
+これからもどんどん凄い忍者コンテンツを作って……。
+[57 - dialogue - 06:16]
+We're going to make Ninjas known all over Kivotos、and break triple-digits in channel subscribers!
+キヴォトス全域に忍者を知らしめて、チャンネル登録者数も三桁を突破してやるんだから!!
+[58 - option - 06:20]
+"Is that high or low...."
+"目標が高いのか、低いのか……。"
+[59 - dialogue - 06:24]
+It's fine it's fine!
+良いの良いの!
+[60 - dialogue - 06:27]
+I will continue to shoot videos.... and also the activities of the Ninjutsu Research Club!
+これからも、動画撮影……あと、忍術研究部の活動!
+[61 - dialogue - 06:32]
+Sensei-dono, you'll help me too right!?
+先生殿、協力してくれるよね!?
+[62 - option - 06:35]
+"Of course."
+"もちろん。"
+[63 - dialogue - 06:39]
+Thanks!!
+ありがと!!
+[64 - momo - 06:55]
+Sensei-dono, maybe it's because of yesterday
+I caught a cold...
+>I'll make some porridge...
+Thanks, Sensei-dono
+Uhm, I'll be waiting for you...
+先生殿、昨日のアレのせいか
+風邪引いちゃったあ…
+>おかゆ作りに行くね……
+ありがとう、先生殿
+えっと、待ってるからね……

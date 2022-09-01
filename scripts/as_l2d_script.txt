@@ -1,0 +1,36 @@
+[0 - dialogue - 00:06:47.133]
+ー Uhm, should I be around here,
+ー do you want me to be in the picture?
+えっと､私はこの辺の、
+端っこに写っていれば良いでしょうか?
+[1 - dialogue - 00:06:56.300]
+ー Something like this, is this ok....?
+-こんな感じで､ 大丈夫ですかね・・・・・ ?
+[2 - dialogue - 00:07:03.367]
+ー H-how can we make the Heli stand out?
+ーど､ どうすればヘリが際立つんでしょう?
+[3 - dialogue - 00:07:10.783]
+ー Sorry,
+ー I'm not really used to this sort of thing....
+- すみません、
+こういうのはあまり慣れてなくって...
+[4 - dialogue - 00:07:23.917]
+ー Uhm...... Sensei?
+ー If you want a commemorative photo of the repair...
+- えっと先生?
+・修理の記念写真ということでしたら.....
+[5 - dialogue - 00:07:31.217]
+ー Wouldn't it be better to focus more on the Helicopter?
+・もっとヘリを中心に撮った方が良いのでは?
+[6 - dialogue - 00:07:41.783]
+ー .....Eh, not the Heli, but my photo?
+..... え、 ヘリではなくて、 私の記念写真 ?
+[7 - dialogue - 00:07:47.283]
+ー Is, is that what you meant!? Eeeh!?
+- そ、そうだったんですか!? ええっ!?
+[8 - dialogue - 00:07:59.483]
+ー Th-thats, well, uh, it's not that I don't want to....!
+-そ、それはその、いえ、 嫌ではないですが･・・・・・!
+[9 - dialogue - 00:08:05.850]
+ー Wh-what is this, my face is suddenly red....
+ー な、何だか急に、顔が熱く

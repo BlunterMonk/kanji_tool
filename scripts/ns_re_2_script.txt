@@ -1,0 +1,215 @@
+[0 - title - 00:00:28.400]
+Coconut Picking Challenge
+ココナッツ採りに挑戦
+[1 - dialogue - 00:00:34.480]
+Oh, Sensei!
+あ、先生!
+[2 - dialogue - 00:00:37.520]
+Over here~! I've been waiting!
+こっちです~! お待ちしておりました!
+[3 - dialogue - 00:00:41.800]
+Look at this!
+見てください!
+[4 - dialogue - 00:00:44.560]
+Aa~all these trees are palm trees!
+あの辺の木、ぜ〜んぶヤシの木なんですよ!
+[5 - dialogue - 00:00:49.760]
+There's so~ much to pick, everyone can eat~☆
+た~くさん採って、 みんなで食べましょう~☆
+[6 - optionab - 00:00:54.200]
+"There's a lot of huge trees."
+"We're gonna need a ladder."
+"すごく大きい木ばかりだね。"
+"脚立を持ってくれば良かったね。 "
+[7 - dialogue - 00:00:56.880]
+Well that's....
+それが......
+[8 - dialogue - 00:01:00.560]
+The ladder is being used for something else right now....
+脚立は今、別の作業で使っちゃってて......。
+[9 - dialogue - 00:01:04.720]
+We can wait until they're done using it....
+そっちが終わるのを待ってからでもいいのですが.......
+[10 - dialogue - 00:01:09.200]
+I had a great idea! I thought it would be great if we all drank coconut milk after work~!
+作業が終わったタイミングで、 ココナッツジュースをみんなで飲めたらな~って! ひらめいたんです!
+[11 - optionab - 00:01:20.280]
+"When you work hard you get thirsty right?"
+"yeah yeah, that's great!"
+"作業してたら喉が渇くもんね。"
+"うんうん｡ いいね!"
+[12 - dialogue - 00:01:22.080]
+Yeah! That's exactly why!!
+うんうん! そういう事です!!
+[13 - dialogue - 00:01:27.920]
+How can we pick coconuts from the palm trees without a ladder....
+脚立無しでヤシの木からココナッツを採る方法･･･
+[14 - dialogue - 00:01:31.880]
+Maybe something...... ah!
+何かいい案･･････あ!
+[15 - dialogue - 00:01:39.760]
+That's it! What do you think of this?
+そうです! こういうのはどうでしょう?
+[16 - dialogue - 00:01:45.600]
+There we go, I brought this.....
+よいしょっと、 これを持って‥.....。
+[17 - optionab - 00:01:51.680]
+"Uhm.... Nonomi-san?"
+"Why did you bring your minigun......?"
+"えっと... ノノミさん?"
+"どうして急にミニガンを.....?"
+[18 - dialogue - 00:01:55.160]
+Ufufu~☆
+うふふ☆
+[19 - dialogue - 00:01:59.000]
+If we can't climb.......
+登れないなら......
+[20 - dialogue - 00:02:03.840]
+Just make it fall!
+落とせばいいんです!
+[21 - dialogue - 00:02:08.560]
+It's time to clean up~☆
+お掃除の時間ですよ~☆
+[22 - dialogue - 00:02:27.080]
+...Ready, START!! ☆
+･じゃ、 ジャーン!! ☆
+[23 - optionab - 00:02:33.880]
+"Whaddya mean 'Ready'!?"
+"Let's find some other way."
+"ジャーン･･････じゃなくない!?"
+"他の方法を探そうか･･････。"
+[24 - dialogue - 00:02:37.480]
+I guess I was a little too rough? All the coconuts are cracked....
+やっぱりちょっと乱暴すぎました? ココナッツも全部割れちゃいましたし･･････。
+[25 - dialogue - 00:02:44.320]
+I may have destroyed the island....
+島の環境を壊しちゃったような････
+[26 - dialogue - 00:02:48.960]
+Hmmmm, is there any other way?
+う〜ん、他の方法･･････どうしましょう?
+[27 - optionab - 00:02:59.160]
+"How about a shoulder mount?"
+"I'm sure the shorter trees can be reached together?"
+"肩車とかどうかな。"
+"背が低い木は肩車で届くんじゃないかな? "
+[28 - dialogue - 00:03:03.400]
+Eh.....
+えつ······
+[29 - dialogue - 00:03:06.600]
+Riding on the shoulders? Got it☆
+肩車ですか? わかりました☆
+[30 - dialogue - 00:03:12.520]
+Then, I'll lift you on my shoulders Sensei! Leave it to me!
+じゃあ、 私が先生を持ち上げますね! 任せてください!
+[31 - dialogue - 00:03:17.240]
+...... oh, I'm riding on top of Sensei?
+････ あ、 私が先生の上に乗る方･･････ですか?
+[32 - dialogue - 00:03:26.680]
+R-really....!?
+そ、そっちですか......!?
+[33 - dialogue - 00:03:32.000]
+N-no, it's not that I don't want to....! I just never thought of that.....!
+い、いえ! 嫌なわけじゃなくて･･････! 今まで考えた事もなかっただけで...... !
+[34 - dialogue - 00:03:39.560]
+Uhhhhhm..... th-then, I'm counting on you, Sensei.
+ええと......で、では、よろしくお願いしますね、 先生。
+[35 - dialogue - 00:03:49.240]
+.....Don't complain, if it's a little heavy☆
+････少し重たくても、文句言わないでくださいね☆
+[36 - dialogue - 00:04:02.360]
+(I approached a small palm tree, with Nonomi riding my shoulders)
+(ノノミを肩に乗せて、 背が低いヤシの木に近づいた)
+[37 - dialogue - 00:04:13.600]
+Se-Sensei? Go a little slower.....
+せ、先生? もう少しゆっくり......。
+[38 - dialogue - 00:04:19.520]
+S-sorry. This is my first time riding someone's shoulders.....I'm a little nervous.
+す、すみません。 肩車に乗るのは初めてで･･････なんだか緊張しますね。
+[39 - dialogue - 00:04:27.640]
+Hmmm..... move just a little more....!
+う~ん･･････あとちょっとで...･･･ !
+[40 - dialogue - 00:04:31.480]
+Just a bit, a little more....!
+もうちょっと、 あと少し･･････!
+[41 - dialogue - 00:04:36.000]
+...AH!?
+･･･あっ!?
+[42 - dialogue - 00:04:45.960]
+Ow ow ow.....
+あいたたた･･････
+[43 - dialogue - 00:04:48.200]
+A-are you ok Sensei?
+だ、大丈夫ですか先生 ?
+[44 - dialogue - 00:04:53.160]
+Sorry, I lost my balance.....
+すみません、バランスを崩してしまって･････
+[45 - dialogue - 00:04:59.960]
+I'm not really used to this kind of thing.....
+こういうのあまり慣れていなくて........
+[46 - dialogue - 00:05:05.800]
+Sensei....?
+先生......?
+[47 - dialogue - 00:05:07.880]
+.....Huh?
+････あれ?
+[48 - dialogue - 00:05:13.200]
+Se-Sensei....!?
+せ、先生...･････!?
+[49 - dialogue - 00:05:17.480]
+Are you alright Sensei!? Sorry..... I, on top of Sensei......!?
+だ､大丈夫ですか先生!? すみません...... 私、 先生の上に······ ! ?
+[50 - dialogue - 00:05:24.280]
+Uhm..... what should I do now......
+えっと.･････ こういう時どうすれば........。
+[51 - optionab - 00:05:31.320]
+"Nonomi are you alright?"
+"I'm alright, in more ways than one."
+"ノノミこそ大丈夫?"
+"私は大丈夫だよ、 色んな意味で。"
+[52 - dialogue - 00:05:36.880]
+R-right...... I'm, thanks to Sensei....
+は、はい.........私は、先生のおかげで...。
+[53 - dialogue - 00:05:41.480]
+Hmmmm, it's a bit difficult like this......I'll try later with the ladder!
+う〜ん、このままでは難しいですね.........後で脚立を持ってきてチャレンジしてみます!
+[54 - dialogue - 00:05:50.280]
+Even though you came to help Sensei, we have to leave empty-handed. Sorry.
+せっかく先生に手伝ってもらったのに、 手ぶらで帰ることになっちゃいましたね。 すみません。
+[55 - dialogue - 00:05:59.000]
+.....We're not empty-handed?
+････ 手ぶらではない、 ですか?
+[56 - dialogue - 00:06:06.120]
+But we don't have anything.....
+でも私たち、 何も····...。
+[57 - optionab - 00:06:12.920]
+"Anything can be an experience."
+"Trial and error is also like playing"
+"ここではなんでも経験になるよ。"
+"試行錯誤の過程もまた、 遊びだからね。"
+[58 - dialogue - 00:06:24.640]
+....fufu~
+....ふふつ。
+[59 - dialogue - 00:06:28.480]
+Yeah! You're exactly right! That's our Sensei☆
+うんうん! おっしゃる通りです! さすが先生ですね☆
+[60 - dialogue - 00:06:35.880]
+Let's head back for now..... maybe we can come pick fruit another time.
+それでは一旦戻って...... また今度、 一緒に採りに来ましょう!
+[61 - dialogue - 00:06:43.080]
+When that time comes....
+その時は......。
+[62 - dialogue - 00:06:45.240]
+.....mmm.
+･･････うん。
+[63 - option - 00:06:47.200]
+"......Nonomi?"
+"...... ノノミ?"
+[64 - dialogue - 00:06:49.880]
+...mmmm, it's nothing.
+････ううん、 何でもないです。
+[65 - dialogue - 00:06:54.560]
+It's just.....
+ただ........。
+[66 - dialogue - 00:07:01.760]
+It feels like.....next time, I might just forget the ladder again.
+なんだか...･････その時も、 脚立を持ってくるのを忘れそうな気がしただけです。

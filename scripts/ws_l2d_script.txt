@@ -1,0 +1,37 @@
+[0 - dialogue - 00:06:58.467]
+ー Fufu, it's so warm....
+ー ぶぶつ、 温かいですね・・・・。
+[1 - dialogue - 00:07:04.600]
+ー Of course, it might be because of the bonfire
+ー もちろん焚火のせいもありますが
+[2 - dialogue - 00:07:12.217]
+ー My love, your voice, your every word
+ー あなた様の声、その言葉一つ一つが
+[3 - dialogue - 00:07:22.217]
+ー Right now they belong for just me, 
+ー It feels like I'm spinning....
+ー 今はこの私のためだけに、
+ー 紡がれているのだと思うと
+[4 - dialogue - 00:07:31.817]
+ー .... Still I'm,
+ー not very good at a lot of things.
+ー ....まだ私は、
+ー 色々と至らぬ身ではあります。
+[5 - dialogue - 00:07:48.550]
+ー By being by your side my love, I've caused you much trouble
+ー And still, I may make more mistakes.
+ー あなた様のそばにいることで、 たくさん迷惑をかけ
+ー また､間違いを犯してしまうかもしれません。
+[6 - dialogue - 00:08:05.583]
+ー But still, my love, I....
+ー May I remain at your side, Sensei...?
+ー それでも､私はこうしてあなた様の・・・・・・
+ー 先生のおそばにいても、よろしいでしょうか･･･・ ?
+[7 - option - 00:08:10.367]
+"Of course..... as long as you want."
+"もちろん••••••いくらでも。"
+[8 - dialogue - 00:08:25.567]
+ー Thank you....
+ー Because you're like this my love, I'm.....
+ー ありがとうございます・・・･・・
+ー そんなあなた様だから､ 私は･・・・・・

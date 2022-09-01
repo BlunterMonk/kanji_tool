@@ -1,0 +1,43 @@
+[0 - option - 00:05:33.667]
+"Whaー Chise!? Your swimsuit.....!"
+"ちょっ、チセ!? 水着が･･････! "
+[1 - dialogue - 00:05:50.133]
+ー Sensei, what's wrong?
+ー Why's your face red? 
+･先生、どうしたの?
+顔が赤いよ?
+[2 - option - 00:05:55.367]
+ー "It's nothing, I'm fine, what about Chise...."
+"いや、私は大丈夫だけど、 チセの方が..
+[3 - dialogue - 00:06:14.750]
+ー If you're ok, that's good
+ー More importantly Sensei, look here, here.
+大丈夫なら、良いけど
+それより先生､ こっち見て、こっち。
+[4 - dialogue - 00:06:24.533]
+ー Turtle-san's shell y'know,
+ー it's really hard~
+亀さんの甲羅はね､
+すごく硬いんだけど~
+[5 - dialogue - 00:06:39.483]
+ー But actually, the tail 
+ー it's so fluffy. Super〜 fluffy〜
+実は尻尾のところは
+- ふわふわしてるの。 ふわふわ〜って
+[6 - dialogue - 00:06:50.483]
+ー So? Sensei do you wanna touch it?
+ー It's really fluffy
+ーどう? 先生も触ってみない?
+ふわふわだよ
+[7 - dialogue - 00:07:01.150]
+ー Sensei? Over here. Here ok?
+ー
+先生?こっちだよ｡ こっち?
+[8 - option - 00:07:04.933]
+"Yeah, I'd like to see it but I shouldn't look, right now isn't good.....!"
+"や、見たいは見たいんだけど、 今はちょっと困るって言うか........!"
+[9 - dialogue - 00:07:24.883]
+ー Right now isn't good.....?
+ー ......Why? How come? Sensei?
+今はちょっと困る･･･････?
+･･････なんで?どうして?先生?

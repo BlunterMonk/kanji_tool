@@ -1,0 +1,382 @@
+[0 - momo - 00:15]
+I'm the head of the club, right?
+    Right.
+Gyaa! It's fine! You don't have to say it!
+I'm usually pretty active! Studying ninjutsu, shooting videos, etc.!
+If we work hard, one day Ninja will be known by everyone in Kivotos, and we will be recognized as an official club!
+    Yeah, do your best, I believe in you.
+Thank you, Sensei-dono! If you say that I have to work even harder!
+    That's good
+Seeing those words have given me strength...
+Thanks to you, I have no more doubts!
+    ....Eh?
+I guess you have to invest in your efforts, don't you?
+I heard that my favorite store is getting new Ninja merch.
+Ah, no! I mean Ninja gear!
+I was worried because it's a bit expensive, but thanks to you Sensei-dono I think I'll take the plunge!
+Yes, this is an investment for the future of the Ninjutsu Research Club!
+    It's not that you want it, but you need it....?
+Well then Sensei, I'll meet you at the usual place!
+(Fwoosh! Shu-ba-ba-ba-ba!)←Somersaulting and running in a very cool way
+    R-roger...
+私って、忍術研究部の部長でしょ?
+    そうだね
+普段からちゃんと活動してるんだから! 忍者の勉強とか、動画撮影とか!
+うぎゃっ! 余計な一言が多いよ! 良いんだよ!
+このまま頑張れば、 いつかはキヴォトスのみんなに忍者を知ってもらって、 正式な部活として認められる日も近いはず!
+    うん、頑張ってるもんね。 応援してる
+ありがとう、先生殿! そう言ってもらえると、ますます頑張れるよ
+    それは良かった
+その言葉を聞いたら力が湧いてきて···
+おかげで、 迷いが無くなったよ!
+    ….………え?
+やっぱり努力のためにも、 投資は惜しんじゃダメだよね
+行きつけのお店で、新しい忍者グッズが入荷されるんだって
+あ、違う! 忍具が!
+ちょっと高くて悩んでたんだけど、先生の言葉を聞いて踏ん切りがついたよ!
+そう、これは忍術研究部の未来への投資!
+    ただ自分が欲しいわけではなく・・・・・・?
+じゃあいつもの場所で待ち合わせね、 先生殿!
+(くるりっ! シュババババッ!)←ものすごくかっこよく宙返りして走っていく音
+    りょ、了解.....
+[4 - title - 00:59]
+Ninja Girl Doesn't Hide
+忍者少女は隠さない
+[5 - dialogue - 01:02]
+(And so, I went to meet Michiru to buy Ninja gear, not Ninja merch...)
+(そうして、ミチルと一緒に忍者グッズ………ではなく、 忍具を売ってるお店に向かうこと)
+[6 - dialogue - 01:09]
+Sensei-donooo~! Over heeere~!
+先生殿ー! こっちこっちー!
+[7 - dialogue - 01:20]
+We've arrived! This is my favorite shop.
+とうちゃーく! ここが、私の行きつけのお店。
+[8 - option - 01:22]
+"This food-stall style shop...? That's unusual for gear."
+"屋台のお店･･････? グッズ系にしては珍しいね。"
+[9 - dialogue - 01:27]
+Right right! But that's what makes it so special and enthusiast-like....
+でしょでしょ! でもそこがマニア向けっぽくて渋いって言うか~......。
+[10 - dialogue - 01:31]
+....Ah, Sensei-dono it's not like that! It's not merch, these are "Ninjutsu tools"!
+.....って違うよ先生殿! グッズ系とかじゃなくて、れっきとした 「忍術の道具」!
+[11 - dialogue - 01:35]
+Oh, look who it is... the young lady in the ninja costume who always comes by, you got a date today?
+おや、誰かと思ったら•••••• いつも来てくれる忍者コスのお嬢さんじゃないか、今日はデートかい?
+[12 - option - 01:38]
+"So you've been here so much you know each other, hello."
+"顔見知りになるくらい通ってるんだね、 こんにちは。"
+[13 - dialogue - 01:42]
+D---d-d-d-d-date!?!?!
+で、ででででデートぉ!?
+[14 - dialogue - 01:48]
+What are you doing here today, did you come to see the new merch?
+今日はどうしたんだい、 新しいグッズでも見に来たのかな?
+[15 - dialogue - 01:54]
+Some good stuff came in yesterday, it can hold a bunch of fireworks all at once. It's perfect for cosplay!
+昨日入ってきたのが良い感じでねぇ、 花火を一気にたくさん持てるやつなんだ。 コスプレにはバッチリだよ!
+[16 - dialogue - 01:58]
+Like I said, it's not cosplay!
+だ、だからコスプレじゃないんだってば!
+[17 - dialogue - 02:02]
+Ah, so that's how it is.
+ああ、そういう設定なんだっけ。
+[18 - dialogue - 02:08]
+Well that's ok. Good luck to you.
+まあ良いんじゃないかな。 あんたもご苦労様。
+[19 - option - 02:13]
+"Ahaha.... well, it's not like it's any trouble..."
+"あはは・・・・・・まあ、 苦労というわけでは......。"
+[20 - dialogue - 02:17]
+Like~ I'm~ saying~!!
+だーかーらーーっ!
+[21 - dialogue - 02:22]
+Hmm, maybe as a store owner, I'm the one that needs to adapt to my customers.... ok.
+ふむ、しかし売り手としては顧客のニーズに合わせるべきかもしれんなぁ・・・・・・よし。
+[22 - dialogue - 02:27]
+....This is codename: Zero Thirty. Mademoiselle, what can I do for you today? 
+・･こちらコードネーム: ゼロサーティ。 マドモアゼル、 今日の用件は?
+[23 - dialogue - 02:32]
+Out! Almost out! And that's not even a Ninja!
+アウト! ほぼアウト! あとそれ忍者じゃないよ!
+[24 - dialogue - 02:37]
+Well y'know, If you think about it, spies can be Ninja too...!
+いやまあ、広い意味ではスパイも忍者かもしれないけど･･････ !
+[25 - option - 02:42]
+"Michiru's idea of Ninja is pretty broad isn't it?"
+"ミチルの忍者判定、広すぎない?"
+[26 - dialogue - 02:47]
+Well, anyways, enjoy your date you two!
+ま、とにかくお二人さんとも、 デートを楽しんでいきな!
+[27 - option - 02:54]
+"Ah, he left."
+"あ、どっか行っちゃった。 "
+[28 - dialogue - 03:00]
+Gaah, I told you it's not a date...! This is just for Ninjutsu research purposes, geez...!
+ああもう、だからデートじゃないって言ってるじゃん・・・・・・! これはあくまで勉強のためで、もう......っ!
+[29 - dialogue - 03:06]
+Sigh, deep breath deep breath.... Hii~, Haa~.
+はぁ、深呼吸深呼吸･・・・・・すーつ、 は一つ。
+[30 - dialogue - 03:11]
+Okay, I'm the boss of the Ninjutsu Research Club, and I can't afford to panic over something like this!
+よし、 私は忍術研究部の部長これしきのことで慌てるわけにはいかない!
+[31 - dialogue - 03:16]
+A feeling like, "Meikyou Shisui", clear mind, calm waters....
+ここは明鏡止水の気持ちで・・・・･･
+[32 - dialogue - 03:19]
+Aahhh!?!?
+ってああっ!?
+[33 - dialogue - 03:23]
+Woah, Sensei-dono look at this! Isn't this amazing!?
+うわぁ、見て見て先生殿! これすごくない!?
+[34 - optionab - 03:28]
+"The Meikyou Shisui fell apart....."
+"A machine gun?"
+"明鏡止水が四散した......。"
+"機関銃 ?"
+[35 - dialogue - 03:32]
+What's with that weak reaction! Sensei-dono, do you have any idea how great this is!?
+何その薄い反応! 先生殿、 これのすごさ分かってる!?
+[36 - dialogue - 03:39]
+This is no ordinary machine gun! It's the "Cursed Machine-gun Muramato" that often appears in director Mikeneko Nyangoro's films!
+これは普通の機関銃じゃないの! 「三毛猫にゃん五郎」 監督の作品によく出てくる、 呪われし魔の機関銃 「妖銃ムラマト」 なんだよ!
+[37 - dialogue - 03:47]
+It's a legendary weapon, whoever wields it will be possessed with the evil spirit of an ancient Ninja!
+これを手にしたものは、 魔のソウルを持つエンシェント忍者になってしまうという伝説の代物!
+[38 - dialogue - 03:54]
+Ah, of course even in works directed by Mikeneko Nyangoro, the effect may vary depending on the film. And reactions from fans are pretty split on it....
+あ、もちろん同じ 「三毛猫にゃん五郎」 監督の作品でも、作品によっては記述が違ったりするし、色々とファンの反応が分かれるアイテムでもあるけど･･････。
+[39 - dialogue - 04:00]
+But this perfection! Amazing, I want it...
+でもこの完成度! すごい、 欲しい･･････
+[40 - dialogue - 04:05]
+What! ¥2,000,000!?!?
+って200万円!?
+[41 - dialogue - 04:08]
+Ugh, should of known.... hm?
+うっ、これは流石に······ん?
+[42 - dialogue - 04:14]
+Ah, this is the poster for the director's first film, "Kai Inu Gururu"! Is that the real one? It is! Wow, I can't believe they even have something like this.....
+あっ、これ「甲斐犬グルル」 監督初作品のポスターじゃん! ? 本物!? すごい、こんなものまであるなんて......。
+[43 - dialogue - 04:21]
+Ah, could that be....!
+あっ、あれってもしかして･･・･･･ !
+[44 - dialogue - 04:29]
+(Michiru continued to have fun rummaging through various things.)
+(そうしてミチルは、楽しそうに色んなものを物色し始めた)
+[45 - dialogue - 04:39]
+Ooowaoh... this is amazing. I could stay here all day!
+うっひゃあぁ・・・・･・･すごいね、一日中ここにいられそう!
+[46 - option - 04:41]
+"Looks like you're having fun."
+"楽しそうだね。"
+[47 - dialogue - 04:46]
+Well of course! It's like a treasure island, I can't stop getting excited!
+そりゃあね! 宝島みたいなものだもん、興奮が止まらないよ!
+[48 - dialogue - 04:51]
+....Huh!? Sorry Sensei-dono, I was going off on my own...
+･･･はっ!? ごめん先生殿、 ひとりでテンション上がっちゃって......
+[49 - dialogue - 04:55]
+Sorry to ignore you like that Sensei-dono....
+何かこう、 先生殿を置いてけぼりに·····
+[50 - optionab - 04:59]
+"It's ok, I'm glad to see you having fun Michiru."
+"It feels like I'm getting tons of positive energy."
+"ううん。 ミチルが楽しそうで嬉しいよ。"
+"すごくこう､プラスのエネルギーをもらってる感じ。 "
+[51 - dialogue - 05:03]
+R-really...? Ehe, ehehehe....well, the boss should be energetic right?
+そ、そう…..…? えへっ、えへへっ･･････ ま、 まあ部長だし? エネルギッシュではあるけど?
+[52 - option - 05:07]
+"Mhm, I can't stop watching you."
+"うん、見てて飽きない。"
+[53 - dialogue - 05:14]
+I-it's a bit embarassing if you say it like that! 
+そ、そういう言い方はなんか恥ずかしいんだけど!?
+[54 - dialogue - 05:19]
+Well, it's... it's nice that you're here, and hanging out with me.... it makes me really happy...
+まあでも、 その･・････ こうして横にいてくれて､ 付き合ってくれるのはその･･・・･･ 嬉しいっていうか......
+[55 - dialogue - 05:23]
+What the heck is this? Ninja merch? Ain't this for kids!
+なーんだこれ? 忍者グッズ? 子どものおもちゃじゃん!
+[56 - dialogue - 05:25]
+....Hm?
+....ん?
+[57 - dialogue - 05:33]
+"Shuriken Set for Beginners" and "Easy Smokebombs"?
+「初心者用手裏剣セット」 に、「お手軽煙幕弾」?
+[58 - dialogue - 05:39]
+What is this? Are you stupid? Who's going to buy this?
+何だこれ、 バカじゃねぇの? 誰がこんなん買うんだよ!
+[59 - dialogue - 05:43]
+Ain't nobody got time for this shit.
+いやー、今の時代にこれは無いわぁ。
+[60 - option - 05:50]
+"...Huh, Michiru?"
+"......ってあれ、 ミチル ? "
+[61 - dialogue - 05:53]
+Delinquints....!!!!
+ち、チンピラ･･････ ! ! !
+[62 - option - 05:58]
+"Uhm, Michiru? You ok?"
+"えっと、ミチル ? 大丈夫? "
+[63 - dialogue - 06:07]
+....Haaa! I, I lost my composure for a bit, but I'm ok Sensei-dono. This time I'll regain my composure, and channel the spirit of Meikyou Shisui.
+・・・・･･はっ! す、 少し平常心を失っちゃいましたけど、 大丈夫でござるよ先生殿。 心配無用である。 今度こそ明鏡止水の精神にて、 冷静さを取りもど、
+[64 - dialogue - 06:14]
+Mo-do-mo-mo-do-do-mo-do.....
+もどももどどもど......
+[65 - option - 06:17]
+"Your limbs are shaking though...."
+"体と語尾がすごく揺れてるけど・・・・・・。"
+[66 - dialogue - 06:22]
+Aaahhh, forget it! Why do those thugs have to come ruin my sacred place!?
+ああもうっ、 仕方ないじゃん! どうしてチンピラが私の聖地に!?
+[67 - dialogue - 06:29]
+Aaahh!! Swinging the merch around like that....! Look at the mess you made...
+ああっ!あんな風にグッズを振り回して･･････! なんて雑な扱い方を...
+[68 - dialogue - 06:37]
+As far as I know, I never heard of Ninja as lame or childish.... come on old man, you can say what you want!
+忍者のことを碌に知らずに、 ダサいとか時代錯誤とか･･････ 言いたい放題言ってくれるじちゃん!
+[69 - dialogue - 06:42]
+Shoo shoo! Go away, get out of here! 
+シッシッ! あっち行け、 早く消えろ!
+[70 - option - 06:47]
+"Michiru, that's a wall."
+"ミチル、そっちは壁だよ。"
+[71 - dialogue - 06:50]
+Ugh.... I'm not sure I can say it directly to their faces...
+うぅ・・・・・･ 直接面と向かって言うのは、ちょっと・・・・
+[72 - dialogue - 06:54]
+Y-yeah! The risk is too high!
+そ、そう! リスクが大きい!
+[73 - dialogue - 06:58]
+You never know what could happen. That sort of thing is....!
+それが原因で、 何が起きるか分からないし。 そういうのはちょっと......!
+[74 - dialogue - 07:03]
+No, I shouldn't say that....
+いや、言い訳なんだけど、うん......。
+[75 - dialogue - 07:10]
+As you can see Sensei-dono, I'm sort of pathetic.... aren't I?
+その、やっぱり先生殿から見ても、 情けない......よね?
+[76 - dialogue - 07:14]
+I'm all bark...
+口先だけで、 こんな......。
+[77 - optionab - 07:19]
+"That's not true."
+"I think it's them that are being pathetic."
+"そんなこと無いよ。"
+"実際に情けないことをしてるのは、あっちの方だと思うし。'
+[78 - dialogue - 07:26]
+Sensei-dono....
+先生殿……。
+[79 - dialogue - 07:30]
+What's this... "The Cursed Machine-gun Muramato!? No way!!
+何だこれ、魔の機関銃 「妖銃ムラマト」?だっっさ!!
+[80 - dialogue - 07:39]
+Hm? When you hold this the cursed gun takes control.....? Ancient soul.... what the heck is this description?
+んー?これを握ると、魔銃に支配されて･･････・ ? エンシェント・・・・・ 何言ってんだこの説明文?
+[81 - dialogue - 07:44]
+Hyahahaha, here look at this! You might get possessed! 
+ひゃはははっ、 ほら握って見ろよ! 支配されちゃうかもしれないぜ!
+[82 - dialogue - 07:48]
+You gotta be kiddin, ain't no way in hell! Ahahaha! 
+んなわけねーだろ、ざっけんなこら! あははははっ!
+[83 - dialogue - 07:53]
+Say, let's fire it once and find out....
+ま、試しに一発くらい撃っても・・・・・・
+[84 - dialogue - 07:57]
+You two are the jokes here!!
+ふざけてるのは、 お前らの方だぁー!!
+[85 - dialogue - 08:02]
+Gaah!? W-Who's there!?
+ぐあああっ!?だ､ 誰だ!?
+[86 - dialogue - 08:06]
+Listen up you punks! I'm the boss the Ninjutsu Research Club, and possessor of the strongest Ninja soul, Chidori Michiru!!
+よく聞けチンピラ共! 私は忍術研究部の部長、 そして最強の忍者ソウルを持つ者、千鳥ミチル!
+[87 - dialogue - 08:11]
+Who the hell is this!?
+やべえやつだ!?
+[88 - dialogue - 08:17]
+You don't even know the value of that machine gun... you're so careless, what if you break it!?
+その機関銃の価値も知らないくせに・・・・・・ むやみに触って壊したりしたらどうするのさ!?
+[89 - dialogue - 08:23]
+Nah, you're the one that fired your gun... if it breaks it's your fault...
+いや、お前が銃を撃ってきたんじゃん… 壊れたらお前のせいだろ…
+[90 - dialogue - 08:27]
+No more questions! Michiru-style, Michiru Ninjutsu, Destroy!!!!
+問答無用! ミチル流忍術、忍者デストロイッ!!!
+[91 - dialogue - 08:45]
+Damnit! We'll remember this, boss of the Ninjutsu Research Club!
+くそ、覚えとけよ忍術研究部の部長!
+[92 - dialogue - 08:49]
+I know your face like the back of my hand!
+お前の顔、 こっちはしっかり覚えたからな!
+[93 - dialogue - 08:52]
+Eh! Th-that might be trouble!?
+えぇ!?そ、それは困る!?
+[94 - dialogue - 08:56]
+Oh no, they'll remember my face...
+やばい、顔覚えられた......
+[95 - dialogue - 09:02]
+What do I do on the dark roads from now on!? 
+これからの夜道、 どうしよう! ?
+[96 - option - 09:06]
+"I think it'll be fine. Anyway, good job Michiru."
+"大丈夫だと思うよ。 とにかくお疲れ様、ミチル。 "
+[97 - dialogue - 09:14]
+Not at all, ehehe... it's just, those thugs were treating the Ninja merch so poorly, that I just...
+いや、えへへ･･････何かこう、チンピラ共があんまりにも忍者グッズを雑に扱うから、つい......。
+[98 - option - 09:19]
+"You called it Ninja merch."
+"忍者グッズって言っちゃった。"
+[99 - dialogue - 09:23]
+Ah.
+ああっ
+[100 - dialogue - 09:28]
+Aahaha, I was almost about to shout, thanks for clearing them out miss.
+あっはっは。 口を出そうと思ったら、解決してくれてありがとよ。 常連のお嬢さん。
+[101 - dialogue - 09:34]
+Ah, nah, I didn't do much...
+あ、いや、とんでもないです......。
+[102 - dialogue - 09:40]
+Once again, I can see just how passionate you are about Ninja. Although it's not a proper gift, take one of these collectibles as thanks.
+あらためて、お嬢さんの忍者への愛情の深さを理解したよ。 記念というわけではないが、このグッズをあげよう。
+[103 - dialogue - 09:44]
+Eh, can I!? I couldn't.... well, I've done so much that I'd like to put it in a video on my channel!
+え、良いの! ? 私は全然･･･・･･･ まあ、 チャンネルに動画として上げたいくらいの活躍はしたけど!
+[104 - dialogue - 09:50]
+Can I have it? The ¥2,000,000 Cursed Machine-gun Muramato!?
+貰っちゃって良いの!?200万の 「妖銃ムラマト」!?
+[105 - dialogue - 09:54]
+No, that's a bit impossible.
+いや、これは無理。
+[106 - option - 09:57]
+"Unfortunate."
+"残念。"
+[107 - dialogue - 10:01]
+Eh!? I got my hopes up...
+えぇ!? 期待したのにい•••••。
+[108 - dialogue - 10:08]
+That's in a different set of merch, here, this new merch. Thanks for your help. It's fans like you that keep us going.
+それとは別のグッズだけど、はいよ、 新しいグッズだ。 助けてくれてありがとうな。 お前さんみたいなファンがいてくれるから、うちも続けていけるよ｡
+[109 - dialogue - 10:16]
+Oh...
+あ･･･
+[110 - optionab - 10:18]
+"Good for you. You got rid of the goons, and got the owner's thanks."
+"As expected of the great Michiru, head of the Ninjutsu Research Club!"
+"良かったね。 チンピラも退治して、お礼も貰えて。"
+"流石は千鳥ミチル、忍術研究部の部長!!"
+[111 - dialogue - 10:24]
+It's embarassing when you hype me up like that, Sensei-dono!
+何かその持ち上げ方は恥ずかしいなぁ先生殿!?
+[112 - dialogue - 10:29]
+B-but...
+で、でも・・・・・・。
+[113 - dialogue - 10:35]
+....Yeah! Anyways, it's a happy ending!!
+･･・・･うん! とにかくハッピーエンドってことで!!
+[114 - dialogue - 10:44]
+(その後ミチルと一緒に、 もう少し買い物を楽しみながら時間を過ごした)
+(Then I enjoyed more time shopping with Michiru)
