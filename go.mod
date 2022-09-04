@@ -1,4 +1,4 @@
-module github.com/BlunterMonk/kanji
+module github.com/BlunterMonk/kanji_tool
 
 go 1.18
 
