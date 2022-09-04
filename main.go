@@ -1,4 +1,4 @@
-package kanji
+package kanji_tool
 
 import (
 	"bytes"
