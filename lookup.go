@@ -11,14 +11,12 @@ import (
  * arguments:
  * 1: path to script file
  */
-func Count(args []string) {
+func Count(dir string) error {
+	// return fmt.Errorf("kanji lookup failed, required arguments: <path_to_script>")
 
 	// verify path was passed to the script
-	if len(args) < 1 {
-		panic(fmt.Errorf("kanji lookup failed, required arguments: <path_to_script>"))
-	}
+	scriptFilename := fixPath(dir)
 
-	scriptFilename := fixPath(args[0])
 	outputFile := "./counts.txt"
 	text := string(readFiles(scriptFilename))
 
@@ -28,7 +26,7 @@ func Count(args []string) {
 	// unique := uniqueSlice(text)
 	// unique = strings.ReplaceAll(unique, "\n", "")
 
-	counts := countKanji(text)
+	counts := CountKanji(text)
 
 	keys := make([]rune, 0, len(counts))
 	for k := range counts {
@@ -63,4 +61,6 @@ func Count(args []string) {
 	saveFile("./values.txt", values.Bytes())
 
 	log.Println("Kanji Lookup Success!")
+
+	return nil
 }

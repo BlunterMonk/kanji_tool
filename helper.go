@@ -62,7 +62,7 @@ func isNotKanji(k rune) bool {
 	return int64(k) < min || int64(k) > max
 }
 
-func countKanji(s string) map[rune]int {
+func CountKanji(s string) map[rune]int {
 	text := sortString(s)
 	keys := make(map[rune]int)
 	for _, entry := range text {
