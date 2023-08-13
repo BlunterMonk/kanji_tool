@@ -19,6 +19,7 @@ type WordInfo struct {
 	Kana    string `json:"kana"`
 	Type    string `json:"type"`
 	Meaning string `json:"meaning"`
+	Count   int    `json:"count"`
 }
 
 func LookupWords(text, dir, name string) map[string]WordInfo {
@@ -32,6 +33,15 @@ func LookupWords(text, dir, name string) map[string]WordInfo {
 
 	cache := loadWordCache(cacheWordsFilename)
 	for key, value := range words {
+		if cw, ok := cache[key]; ok {
+			// add existing count to new count
+			value.Count = value.Count + cw.Count
+			v := cache[key]
+			v.Count += 1
+			cache[key] = v
+			continue
+		}
+
 		cache[key] = value
 	}
 	saveWordCache(cacheWordsFilename, cache)
@@ -119,7 +129,9 @@ func ScrapeHTML(buf io.Reader) (map[string]WordInfo, *bytes.Buffer) {
 			if !exists || content == "" || m || m2 {
 				return
 			}
-
+			if isNotKanji([]rune(title)[0]) {
+				return
+			}
 			newWord := WordInfo{
 				Kanji:   title,
 				Meaning: strings.Replace(content, title, "", 1),
@@ -131,6 +143,7 @@ func ScrapeHTML(buf io.Reader) (map[string]WordInfo, *bytes.Buffer) {
 					newWord.Kana = match[1]
 					newWord.Type = match[2]
 					newWord.Meaning = match[3]
+					newWord.Count = 1
 					// fmt.Println("found match")
 				}
 			} else {
