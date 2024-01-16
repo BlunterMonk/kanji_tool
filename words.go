@@ -31,10 +31,15 @@ func LookupWords(text, dir, name string) map[string]WordInfo {
 	words, _ := ScrapeHTML(scanned)
 	// saveFile(fmt.Sprintf("%v/%v_words.txt", dir, name), words.Bytes())
 
-	cache := loadWordCache(cacheWordsFilename)
+	UpdateCache(cacheWordsFilename, words)
+	return words
+}
+
+func UpdateCache(filename string, words map[string]WordInfo) map[string]WordInfo {
+	cache := loadWordCache(filename)
 	for key, value := range words {
 		if cw, ok := cache[key]; ok {
-			// add existing count to new count
+			// fmt.Println("add existing count to new count")
 			value.Count = value.Count + cw.Count
 			v := cache[key]
 			v.Count += 1
@@ -44,8 +49,9 @@ func LookupWords(text, dir, name string) map[string]WordInfo {
 
 		cache[key] = value
 	}
-	saveWordCache(cacheWordsFilename, cache)
-	return words
+
+	saveWordCache(filename, cache)
+	return cache
 }
 
 func LookupKanjiToKana(input string) string {

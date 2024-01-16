@@ -62,7 +62,7 @@ func Lookup(text string) string {
 	unique := uniqueSlice(text)
 	unique = strings.ReplaceAll(unique, "\n", "")
 
-	log.Println("Getting Kanji Info")
+	// log.Println("Getting Kanji Info")
 	result := getKanjiInfo(cacheFilename, unique)
 
 	return result
@@ -71,7 +71,6 @@ func Lookup(text string) string {
 func lookupKanji(kanji string) KanjiInfo {
 
 	endpoint := fmt.Sprintf("https://kanjiapi.dev/v1/kanji/%v", kanji)
-	log.Printf("Querying: %v", endpoint)
 	resp, err := http.Get(endpoint)
 	if err != nil {
 		log.Fatalln(err)
@@ -81,8 +80,11 @@ func lookupKanji(kanji string) KanjiInfo {
 	check(err)
 	// body := string(data)
 
-	log.Println(resp.StatusCode)
-	// log.Println(body)
+	if resp.StatusCode != 200 {
+		log.Printf("Querying: %v", endpoint)
+		log.Println(resp.StatusCode)
+		log.Println(string(data))
+	}
 
 	var info KanjiInfo
 	err = json.Unmarshal(data, &info)

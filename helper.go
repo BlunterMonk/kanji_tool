@@ -136,7 +136,6 @@ func lookupWords(text string) string {
 	endpoint := "https://nihongodera.com/tools/convert"
 	q := fmt.Sprintf("options[analyzer][]=analyzer&options[analyzer][words]=words&_token=%s&text=%v&type=analyzer", TOKEN, text)
 	buf := bytes.NewBufferString(q)
-	log.Printf("Querying: %v", endpoint)
 	resp, err := httpClient.Post(endpoint, "application/x-www-form-urlencoded", buf)
 	if err != nil {
 		log.Fatalln(err)
@@ -146,8 +145,11 @@ func lookupWords(text string) string {
 	check(err)
 	body := string(data)
 
-	log.Println(resp.StatusCode)
-	// log.Println(body)
+	if resp.StatusCode != 200 {
+		log.Printf("Querying: %v", endpoint)
+		log.Println(resp.StatusCode)
+		log.Println(string(data))
+	}
 
 	return body
 }
@@ -157,7 +159,6 @@ func lookupKana(text string) string {
 	endpoint := "https://nihongodera.com/tools/convert"
 	q := fmt.Sprintf("options[kana][style]=hiragana&options[kana][space][type]=space&_token=%s&text=%v&type=kana", TOKEN, text)
 	buf := bytes.NewBufferString(q)
-	log.Printf("Querying Kana: %v", endpoint)
 	resp, err := httpClient.Post(endpoint, "application/x-www-form-urlencoded", buf)
 	if err != nil {
 		log.Fatalln(err)
@@ -167,8 +168,11 @@ func lookupKana(text string) string {
 	check(err)
 	body := string(data)
 
-	log.Println(resp.StatusCode)
-	// log.Println(body)
+	if resp.StatusCode != 200 {
+		log.Printf("Querying Kana: %v", endpoint)
+		log.Println(resp.StatusCode)
+		log.Println(string(data))
+	}
 
 	return body
 }
