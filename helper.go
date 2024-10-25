@@ -27,10 +27,10 @@ func init() {
 		TLSClientConfig: &tls.Config{InsecureSkipVerify: true},
 	}
 	httpClient = &http.Client{Transport: tr}
-	_, err := httpClient.Get("https://nihongodera.com")
-	if err != nil {
-		fmt.Println(err)
-	}
+	// _, err := httpClient.Get("https://nihongodera.com")
+	// if err != nil {
+	// 	fmt.Println(err)
+	// }
 }
 
 func buildPaths(filename string) (dir, name string) {
@@ -47,11 +47,42 @@ func sortString(w string) string {
 	return strings.Join(s, "")
 }
 
-func isNotKana(k rune) bool {
+func IsNotJapanese(k rune) bool {
+	return !isKana(k) && isNotKanji(k)
+}
+
+func isKana(k rune) bool {
 	min := 0x3040
 	max := 0x309f
+	kmin := 0x30a0
+	kmax := 0x30ff
+	kanjiMin := 0x4e00
+	kanjiMax := 0x4DB5
 
-	return int(k) < min || int(k) > max
+	// special character:・
+	if k == 12539 {
+		return false
+	}
+	if (int(k) >= min && int(k) <= max) || (int(k) >= kanjiMin && int(k) <= kanjiMax) {
+		return true
+	}
+
+	// katakana
+	if int(k) >= kmin && int(k) <= kmax {
+		// fmt.Println("kmin", kmin, "k", int(k), "kmax", kmax)
+		return true
+	}
+
+	return false
+}
+
+func IsJapaneseSpecialCharacters(k rune) bool {
+
+	if int(k) == 12290 || int(k) == 12289 || int(k) == 12316 || int(k) == int('~') || int(k) == int('?') || int(k) == int('!') || int(k) == int('・') {
+		return true
+	}
+
+	return false
 }
 
 func isNotKanji(k rune) bool {
